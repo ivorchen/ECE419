@@ -1,0 +1,26 @@
+Group Member:
+Wang Ruoyang     998327779
+Chen Zhongxing   998471283
+
+
+---------------------------------------------------------------------------------------------------
+Game Launch Instruction:
+1. On terminal "make clean;make all"
+2. On terminal run "sh nserver.sh ".
+2. On terminal run "sh server.sh localhost port_nubmber', 
+   host ip address must be the same as the ip address of the machine which is running the previous command.
+   port_number should be unique.
+3. On terminal run "sh run.sh localhost"
+   host ip address must be the same as the ip address of the machine which is running the previous command.
+
+From Maze UI:
+enter a name first, name should be unique
+---------------------------------------------------------------------------------------------------
+
+
+Significant feature:
+1. Dynamic Join (consistence with score and quit)
+2. Playable with multiple players (as many as you want)
+3. Synchronization with movement and missile
+4. Random respawn location
+5. fault tolerance
