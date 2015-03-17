@@ -449,6 +449,7 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
 			                    while(it.hasNext()) {   
 			                            Object o = it.next();
 			                            assert(o instanceof Projectile);
+						    if (((Projectile)o).remove_flag == false)
 			                            deadPrj.addAll(moveProjectile((Projectile)o));
 			                    }               
 			                    it = deadPrj.iterator();
@@ -478,6 +479,7 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
                                         while(it.hasNext()) {   
                                                 Object o = it.next();
                                                 assert(o instanceof Projectile);
+						if (((Projectile)o).remove_flag == false)
                                                 deadPrj.addAll(moveProjectile((Projectile)o));
                                         }               
                                         it = deadPrj.iterator();
@@ -526,6 +528,7 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
                         if(contents instanceof Client) {
                                 killClient(prj.getOwner(), (Client)contents);
                                 cell.setContents(null);
+				prj.remove_flag=true;
                                 deadPrj.add(prj);
                                 update();
                                 return deadPrj;
@@ -534,6 +537,8 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
                                 assert(contents instanceof Projectile);
                                 newCell.setContents(null);
                                 cell.setContents(null);
+				prj.remove_flag=true;
+				((Projectile)contents).remove_flag=true;
                                 deadPrj.add(prj);
                                 deadPrj.add(contents);
                                 update();
