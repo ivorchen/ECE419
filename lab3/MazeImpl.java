@@ -375,7 +375,7 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
 					Object o = it.next();
 					Projectile prj = (Projectile)o;
 					//System.out.println("what's the owner now?:  "+prj.getOwner().getName()+"   "+prj.getOwner().serverHostName);
-					if(MazeServerHandler.MyClientName.equals(prj.getOwner().getName()))
+					if(prj.getOwner().serverHostName!=null&&MazeServer.myHostName.equals(prj.getOwner().serverHostName))
 					{
 						//System.out.println("^^^^^^^^^ current Prj Owner:   "+prj.getOwner().getName()+"   "+projectileMap.size());
 						exist = true;
@@ -768,7 +768,7 @@ public class MazeImpl extends Maze implements Serializable, ClientListener, Runn
                 
                 // Pick a random starting point, and check to see if it is already occupied
                 // the server with the dead client execute this
-                if(clientQueue!=null&&ServerPointer.MyClientName.equals(target.getName())){
+                if(clientQueue!=null){
                 System.out.println("inside server handle kill");
 		            Object o = clientMap.remove(target);
 		            assert(o instanceof Point);
