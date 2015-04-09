@@ -58,6 +58,7 @@ public class WorkerHandler extends Thread {
 				if (size_queue==Worker.queuesize&&Worker.queuesize!=0){
 					Worker.setDone();
 					size_queue=0;
+					Worker.queuesize=0;
 					System.out.println("fail to decode, cant find password");
 				}
 			}

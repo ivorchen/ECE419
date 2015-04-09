@@ -100,6 +100,7 @@ public class Worker {
 	//workerReg();
 	createMyWorker();
 	workerReg();
+	check_curjob();
 	FSLisenter();
 	}
 
@@ -284,4 +285,16 @@ public class Worker {
     zkc.create(CURRENT_JOB+"/"+CurJob+"/"+tmp[2]+start,null,CreateMode.PERSISTENT);
     
     }
+
+    public void check_curjob(){
+    	//zkc.getChildren(CURRENT_JOB,null);
+	List<String> children =zkc.getChildren(CURRENT_JOB,null);
+		if(children.size()==1){
+		System.out.println("get a job "+children.get(0));
+		CurJob=children.get(0);
+		zkc.setData(CURRENT_JOB+"/"+CurJob, "In Progress",-1);
+		sendReq(CurJob);
+		}
+    }
+
 }
