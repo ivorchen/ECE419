@@ -1,0 +1,2616 @@
+waiting for naming server to respond @_@
+got response from Naming server!
+what's the key set?  10
+Inside for loop to get peers server name and PORT NUM:  8001
+IvorDebian
+Created new Thread to handle client
+connecting to other servers! my hostname is:  IvorDebian#7464
+creating serverSocket for clients now, check serverCount:  1
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 1.0
+~~~~~Assign clock 1.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 2.0
+~~~~~Assign clock 2.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 3.0
+~~~~~Assign clock 3.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 4.0
+~~~~~Assign clock 4.7463999999999995
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 5.0
+~~~~~Assign clock 5.7463999999999995
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 6.0
+~~~~~Assign clock 6.7463999999999995
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 7.0
+~~~~~Assign clock 7.7463999999999995
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 8.0
+~~~~~Assign clock 8.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 9.0
+~~~~~Assign clock 9.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 10.0
+~~~~~Assign clock 10.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 11.0
+~~~~~Assign clock 11.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 12.0
+~~~~~Assign clock 12.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 13.0
+~~~~~Assign clock 13.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 14.0
+~~~~~Assign clock 14.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 15.0
+~~~~~Assign clock 15.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 16.0
+~~~~~Assign clock 16.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 17.0
+~~~~~Assign clock 17.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 18.0
+~~~~~Assign clock 18.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 19.0
+~~~~~Assign clock 19.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 20.0
+~~~~~Assign clock 20.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 21.0
+~~~~~Assign clock 21.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 22.0
+~~~~~Assign clock 22.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 23.0
+~~~~~Assign clock 23.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 24.0
+~~~~~Assign clock 24.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 25.0
+~~~~~Assign clock 25.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 26.0
+~~~~~Assign clock 26.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 27.0
+~~~~~Assign clock 27.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 28.0
+~~~~~Assign clock 28.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 29.0
+~~~~~Assign clock 29.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 30.0
+~~~~~Assign clock 30.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 31.0
+~~~~~Assign clock 31.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 32.0
+~~~~~Assign clock 32.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 33.0
+~~~~~Assign clock 33.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 34.0
+~~~~~Assign clock 34.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 35.0
+~~~~~Assign clock 35.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 36.0
+~~~~~Assign clock 36.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 37.0
+~~~~~Assign clock 37.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 38.0
+~~~~~Assign clock 38.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 39.0
+~~~~~Assign clock 39.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 40.0
+~~~~~Assign clock 40.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 41.0
+~~~~~Assign clock 41.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 42.0
+~~~~~Assign clock 42.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 43.0
+~~~~~Assign clock 43.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 44.0
+~~~~~Assign clock 44.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 45.0
+~~~~~Assign clock 45.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 46.0
+~~~~~Assign clock 46.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 47.0
+~~~~~Assign clock 47.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 48.0
+~~~~~Assign clock 48.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 49.0
+~~~~~Assign clock 49.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 50.0
+~~~~~Assign clock 50.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 51.0
+~~~~~Assign clock 51.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+Server sender done one sending 0
+Server sender done one sending 0
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 52.0
+~~~~~Assign clock 52.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+Server sender done one sending 0
+Server sender done one sending 0
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 53.0
+~~~~~Assign clock 53.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+Server sender done one sending 0
+Server sender done one sending 0
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 54.0
+~~~~~Assign clock 54.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+Server sender done one sending 1
+Server sender done one sending 0
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 55.0
+~~~~~Assign clock 55.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+Server sender done one sending 1
+Server sender done one sending 0
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 56.0
+~~~~~Assign clock 56.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+Server sender done one sending 1
+Server sender done one sending 0
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 57.0
+~~~~~Assign clock 57.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+Server sender done one sending 1
+Server sender done one sending 0
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 58.0
+~~~~~Assign clock 58.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+Server sender done one sending 1
+Server sender done one sending 0
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 59.0
+~~~~~Assign clock 59.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Server sender done one sending 1
+Server sender done one sending 0
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 60.0
+~~~~~Assign clock 60.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Server sender done one sending 0
+Server sender done one sending 0
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 61.0
+~~~~~Assign clock 61.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 62.0
+~~~~~Assign clock 62.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Server sender done one sending 1
+Server sender done one sending 0
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 63.0
+~~~~~Assign clock 63.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 64.0
+~~~~~Assign clock 64.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+Server sender done one sending 1
+Server sender done one sending 0
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 65.0
+~~~~~Assign clock 65.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+``````````````````  trying to acquire lock! ```````````
+after add get this event immediately to check   ProjUpdate
+
+Server sender done one sending 0
+Server sender done one sending 0
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 66.0
+~~~~~Assign clock 66.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 67.0
+~~~~~Assign clock 67.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 68.0
+~~~~~Assign clock 68.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+print the packet type   800   7464
+Inside ACK function:  .....  from Server:
++++++++++server ack 
+~~~~~~~server ack 
+Leave ACK function:  .....  from Server:
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+print the packet type   209   7464
+got a Missile from other server 209
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
+``````````````````  trying to acquire lock! ```````````
+
+Print event list
+********************  can dequeue and broadcast this event
+now update projectile
+Inside move_Proj(), Now i can update all projectiles!  --- null
+OUT move_Proj()!  --- null
+Server_Broad_cast~~~~~~~~~~~ beginning?~~~~~~~
+~~~~~~~~~~~ in the end what's the size?~~~~~~~  
+I am the boss! look at my pid:  7464 IvorDebian#7464
+
+Print event list
+~~~~~current clock is 69.0
+~~~~~Assign clock 69.7464
+?????enter add_One_event
+after add get this event immediately to check   ProjUpdate
+Server sender done one sending 1
+Server sender done one sending 0
